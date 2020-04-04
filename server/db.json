@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "my stream ",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "another stream",
+      "description": "this is another stream",
+      "id": 2
+    },
+    {
+      "title": "stream with id changed",
+      "description": "new stream with id wow",
+      "id": 3
+    },
+    {
+      "title": "programatic navigation",
+      "description": "you should not see this on the form page",
+      "userId": "118166484474664719857",
+      "id": 5
+    },
+    {
+      "title": "Stream refactor",
+      "description": "component reuse refactor ",
+      "userId": "118166484474664719857",
+      "id": 6
+    }
+  ]
+}
